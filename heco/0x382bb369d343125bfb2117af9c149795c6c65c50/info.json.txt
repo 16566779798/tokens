@@ -1,0 +1,11 @@
+{
+ "name": "logo",
+ "website": "http://www.logo.com",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/address/0x382bb369d343125bfb2117af9c149795c6c65c50",
+ "type": "HRC-20",
+ "symbol": " logo",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x382bb369d343125bfb2117af9c149795c6c65c50"
+} 
